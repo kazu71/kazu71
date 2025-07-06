@@ -9,7 +9,7 @@
 <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaka71&theme=radical" />
 <img align="light" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaka71&theme=github_dark&utcOffset=9" />
 <img alt="Top Langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazu71&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kazu71&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 
 
 <!---
