@@ -7,9 +7,9 @@
 <br>
 
 ### Repository List
-[Minecraft](https://github.com/stars/kazu71/lists/minecraft)
-[Server](https://github.com/stars/kazu71/lists/server)
-[System](https://github.com/stars/kazu71/lists/system)
+- [Minecraft](https://github.com/stars/kazu71/lists/minecraft)
+- [Server](https://github.com/stars/kazu71/lists/server)
+- [System](https://github.com/stars/kazu71/lists/system)
 
 
 <br>
