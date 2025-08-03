@@ -11,8 +11,8 @@
 <img alt="Top Langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazu71&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kazu71&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 
-### お知らせ
-現在、リポジトリの整理を行っているため、リポジトが定期的に変わることがあります。
+### announce
+We are currently organizing our repository, so it may change periodically.
 
 
 
