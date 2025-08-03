@@ -6,6 +6,14 @@
 - 😊 Nice to meet you.
 <br>
 
+### Repository List
+[Minecraft](https://github.com/stars/kazu71/lists/minecraft)
+[Server](https://github.com/stars/kazu71/lists/server)
+[System](https://github.com/stars/kazu71/lists/system)
+
+
+<br>
+
 ### announce
 We are currently organizing our repository, so it may change periodically.
 
