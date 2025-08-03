@@ -6,10 +6,8 @@
 - 😊 Nice to meet you.
 <br>
 
-### Repository List
-- [Minecraft](https://github.com/stars/kazu71/lists/minecraft)
-- [Server](https://github.com/stars/kazu71/lists/server)
-- [System](https://github.com/stars/kazu71/lists/system)
+### [Repository List](https://github.com/kazu71/Management-Repository)
+
 
 
 <br>
