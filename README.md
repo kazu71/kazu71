@@ -7,7 +7,7 @@
 <br>
 
 
-### [My Profile](https://kazu71.github.io/kazu71.com/)
+### [My Profile site](https://kazu71.github.io/kazu71.com/)
 ### [Repository List](https://github.com/kazu71/Management-Repository)
 
 
