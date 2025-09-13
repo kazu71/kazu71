@@ -8,7 +8,7 @@
 
 
 
-### [Repository List](https://github.com/kazu71/Management-Repository)
+
 
 
 
